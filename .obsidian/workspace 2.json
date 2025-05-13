@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "4bed5127452528ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef6938a2201d6d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a45888bc618d60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Reverse Proxy/Reverse Proxy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reverse Proxy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "558b26de04bb99ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc900ba988b79ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75adc1a8590f77c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64645ad599b18e4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "eca3560dcc178bb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "spring",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60720c8d6b6dd21e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "1d8aaf53ddb5f905",
+    "type": "split",
+    "children": [
+      {
+        "id": "f621ef8ad50c4551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9310dd5895fef6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56b872b15fe70e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "90. Archives/99. backup/Computer Science/Application/DevOps/Version Control Revision Control/git/LocalPC Git Remote Repository생성하기.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LocalPC Git Remote Repository생성하기"
+            }
+          },
+          {
+            "id": "0287b83af77f3490",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a76a9b61d64d6354",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcb15120884b273e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Snippet/resharper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for resharper"
+            }
+          },
+          {
+            "id": "7cb770e66a7efc72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "90. Archives/99. backup/Computer Science/Application/DevOps/Version Control Revision Control/git/LocalPC Git Remote Repository생성하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LocalPC Git Remote Repository생성하기"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0e8089076c21a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8acff58237de7c6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "90. Archives/99. backup/Computer Science/Application/DevOps/Version Control Revision Control/git/LocalPC Git Remote Repository생성하기.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224425,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of LocalPC Git Remote Repository생성하기"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "omnisearch:Omnisearch": false,
+      "translate:Open translation view": false,
+      "templater-obsidian:Templater": false,
+      "smart-composer:Open smart composer": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "75adc1a8590f77c2",
+  "lastOpenFiles": [
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled 9.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled 8.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled 7.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled 6.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments/Untitled 5.png",
+    "30. Resource/30.02. Lecture/30.02.02. Sofeware/Database/SQL 데이터 분석 첫걸음/Part 02/00. Environment Configuration/00. Environment Configuration(1).md",
+    "30. Resource/30.01. Book/30.01.02. Software/Alogorithm이 보이는 그림책/Chapter 2. 제어/Chapter 2. 제어(1).md",
+    "30. Resource/30.01. Book/30.01.02. Software/Alogorithm이 보이는 그림책/Chapter 0. 시작하기전/Chapter 0. 시작하기전(1).md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/attachments/Untitled.png",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/attachments/Untitled 3.png",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/attachments/Untitled 2.png",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/attachments/Untitled 1.png",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/attachments",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git/03. Git.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/03. Git",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins",
+    "30. Resource/30.03. Reseach/30.03.06. IDE/Eclipse/Eclipse(1).md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/Initial settings.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Gitlab/Gitlab.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/DNS Server/DNS Server.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/외부접속/외부접속.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Reverse Proxy/Reverse Proxy.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Hardware.NAS.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Mail Server.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/01. Download & Install/01. Download & Install.md",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/외부접속/00. attachments/Untitled.png",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/외부접속/00. attachments",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/외부접속",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Reverse Proxy/00. attachments",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Reverse Proxy",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings/00. attachments",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Initial settings",
+    "30. Resource/30.03. Reseach/30.03.01. Hardware/NAS/Gitlab/00. attachments",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/02. Evironment Configuration/02. Evironment Configuration.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/03. Git/03. Git.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/it.system.jenkins/it.system.jenkins.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/Jenkins/Jenkins.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 01.  Java Development Environment/Ch 01.  Java Development Environment.md",
+    "30. Resource/30.03. Reseach/30.03.07. System/gitlab/SSH.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Basic.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 04. Data Type/Ch 04. Data Type.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 08. Method/Ch 08. Method.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 06. Array/Ch 06. Array.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 05. Class/Ch 05. Class.md",
+    "30. Resource/30.02. Lecture/30.02.04. Programming/java/Basic/Ch 02. Java SE Project/Ch 02. Java SE Project.md",
+    "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
+    "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
+    "Untitled.canvas",
+    "Brain/무제 파일.canvas"
+  ]
+}
