@@ -26,6 +26,7 @@
     "excalidraw-embeddable-theme": "text",
     "Categories": "text",
     "Creation date": "datetime",
-    "MOC": "multitext"
+    "MOC": "multitext",
+    "Outgoinglinks": "multitext"
   }
 }

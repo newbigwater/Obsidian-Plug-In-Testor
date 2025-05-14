@@ -4,17 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "c216d51657568b3f",
+        "id": "25b97e4360119265",
         "type": "tabs",
         "children": [
           {
-            "id": "308230c5e396a840",
+            "id": "4af9ebec6254433a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01. System/01.01. Template/03. Update.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "03. Update"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab2da5860407555c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bd6ebdd5e792892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/a/_MOC_.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_MOC_"
             }
           }
         ]
@@ -84,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 357.5
   },
   "right": {
     "id": "1d8aaf53ddb5f905",
@@ -115,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01. System/01.01. Template/03. Update.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 03. Update"
             }
           },
           {
@@ -150,6 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01. System/01.01. Template/03. Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 03. Update"
             }
           },
           {
@@ -188,6 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "01. System/01.01. Template/03. Update.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 03. Update"
             }
           }
         ]
@@ -243,53 +290,54 @@
       "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "308230c5e396a840",
+  "active": "4af9ebec6254433a",
   "lastOpenFiles": [
-    "a/a.md",
-    "b/a 1.md",
-    "b/b.md",
-    "b/00. attachments/desktop.ini",
-    "b/00. attachments/Pasted image 20250514113011.png",
-    "b/00. attachments",
-    "a/00. attachments/desktop.ini",
-    "a/00. attachments/Pasted image 20250514113011.png",
-    "a/00. attachments",
-    "b",
-    "a",
-    "01. System/01.01. Template/Template-Create Note.md",
-    "language/a/a.md",
-    "language/language.md",
-    "language/a",
-    "01. System/01.01. Template/Template-Note.md",
-    "01. System/Backup/Template-Create Note V2.md",
-    "01. System/Backup/Template-Create Directory.md",
-    "01. System/Backup/Template-Create Note V4.md",
-    "language/b/b.md",
-    "language/b",
+    "language/a/_MOC_.md",
+    "99. trash/Untitled.md",
+    "language/_MOC_.md",
+    "language/a/02. Ent.md",
+    "language/a/01. Test/01. Test.md",
+    "01. System/01.01. Template/03. Update.md",
     "language/a/desktop.ini",
-    "language/null/null.md",
-    "language/null",
-    "language/.md",
-    "language/a1/a1.md",
-    "language/d/d.md",
-    "language/c/Untitled.md",
-    "language/c/c.md",
-    "language/c/c1/c1.md",
-    "language/a/a1/a1.md",
-    "language/b/b1/b1.md",
-    "language/a/b/b.md",
-    "language/a.md",
-    "language/a/b/c/c.md",
-    "language/c.md",
-    "README.md",
+    "language/a/01. Test/desktop.ini",
+    "language/a/01. Test",
+    "language/a",
+    "language/Untitled.md",
+    "01. System/01.01. Template/02. Create-Section.md",
+    "01. System/01.01. Template/01. Create-Topic.md",
+    "01. System/01.01. Template/AA. Template-Note.md",
+    "01. System/01.01. Template/AB. Template-Note-MOC.md",
+    "language/test/desktop.ini",
+    "language/test/_MOC_.md",
+    "language/test",
+    "language/Internet/02. Test.md",
+    "language/Internet/_MOC_.md",
+    "language/Internet/01. Init/01. Init.md",
+    "language/Internet/01. Init",
+    "language/Internet",
+    "01. System/01.01. Template/Template-Note (1).md",
+    "99. trash/desktop.ini",
+    "01. System/01.02. User Script/desktop.ini",
+    "language/a/01. Init.md",
+    "language/internet/_MOC_.md",
+    "language/internet/01. Test/01. Init.md",
+    "01. System/01.01. Template/Template-Topic-Section-Modify.md",
+    "language/internet/01. Day 01/01. Day 01.md",
+    "01. System/Backup/Template-Clean.md",
+    "01. System/Backup/Template-Create Directory.md",
+    "01. System/Backup/Template-Create Note V1.md",
+    "01. System/Backup/Template-Create Note V4.md",
+    "01. System/Backup/Template-Create Note V3.md",
+    "language/a/b/00. attachments/Pasted image 20250514181937.png",
+    "language/a/00. attachments/Pasted image 20250514163240.png",
+    "language/a/00. attachments/Pasted image 20250514150737.png",
+    "b/00. attachments/Pasted image 20250514113011.png",
+    "a/00. attachments/Pasted image 20250514113011.png",
     "improvements/b/00. attachments/Pasted image 20250513110414.png",
     "improvements/a/00. attachments/Pasted image 20250513110414.png",
     "20. Area/develop/b/00. attachments/Pasted image 20250512232950.png",
     "20. Area/develop/a/00. attachments/Pasted image 20250512232950.png",
     "development/B/00. attachments/Pasted image 20250512153438.png",
-    "development/A/00. attachments/Pasted image 20250512153438.png",
-    "development 1/A/00. attachments/Pasted image 20250512153438.png",
-    "20. Area/develop/abc123/abc123abc/00. attachments/Pasted image 20250507215858.png",
     "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
     "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
     "Untitled.canvas",

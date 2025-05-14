@@ -14,5 +14,6 @@
   "templater-obsidian",
   "sample-plugin",
   "hot-reload",
-  "update-relative-links-Renewal"
+  "update-relative-links-Renewal",
+  "better-export-pdf"
 ]

@@ -11,8 +11,8 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "user_scripts_folder": "01. System/01.02. User Script",
+  "enable_folder_templates": false,
   "folder_templates": [],
   "enable_file_templates": false,
   "file_templates": [

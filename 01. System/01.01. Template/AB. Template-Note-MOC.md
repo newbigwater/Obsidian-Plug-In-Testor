@@ -1,0 +1,8 @@
+---
+Creation date: <% tp.file.creation_date() %>
+tags:
+  - moc
+  - <% tp.file.folder(true).split("/").join("\n  - ") %>
+Outgoinglinks:
+---
+---

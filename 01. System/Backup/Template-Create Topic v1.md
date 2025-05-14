@@ -1,0 +1,54 @@
+<%*const topic = await tp.system.prompt("📘 Please enter a Topic!")
+const folder = tp.file.folder(true)
+const parts = folder.split("/")
+const count = parts.length
+
+const curDirPath = `${folder}/${topic}`
+const curFile = `_MOC_`
+await app.vault.createFolder(`${curDirPath}`).catch(() => {})
+
+let templatefile = await tp.file.find_tfile("Template-Note");
+if (!templatefile) {
+	console.log("❌ Template-MOC 파일을 찾을 수 없습니다.");
+	return;
+}
+const templateContent = await app.vault.read(templatefile);
+console.log(`Template Content: ${templateContent}`);
+await tp.file.create_new(templatefile, curFile, true, curDirPath);
+%>
+<%*
+const mocFileName     = `_MOC_.md`;
+let preMocFilePath    = ""
+let preMocDisplayName = ""
+for (let i = 0; i < parts.length; i++) {
+	dir = i === 0 ? parts[i] : `${dir}/${parts[i]}`;
+	
+	let mocFilePath = `${dir}/${mocFileName}`;
+	let mocDisplayName = parts[i];
+	console.log(`[[${mocFilePath}|${mocDisplayName}]]`);
+	
+	let mocFile = await app.vault.getAbstractFileByPath(mocFilePath);
+	if (!mocFile) {
+		mocFile = await app.vault.create(mocFilePath, templateContent);
+		console.log(`Create: ${mocFilePath}`);
+	} else {
+		console.log(`Find: ${mocFilePath}`);
+	}
+
+	console.log(`curDirPath: ${curDirPath}`);
+	console.log(`dir: ${dir}`);
+	if(parts.length - 1 == i){
+		const yamlLink = `  - "[[${curDirPath}/${curFile}|${topic}]]"`;
+		
+		const original = await app.vault.read(mocFile);
+		if (!original.includes(yamlLink)) {
+			const updated = original.replace(/Outgoinglinks:\s*\n/, match => `${match}${yamlLink}\n`);
+			await app.vault.modify(mocFile, updated);
+			console.log(`✅ 링크 추가됨: ${yamlLink}`);
+		} else {
+			console.log(`🔁 이미 존재함: ${yamlLink}`);
+		}
+	}
+}
+%>
+<%* await tp.file.move(`.trash/${tp.file.title}`); %>
