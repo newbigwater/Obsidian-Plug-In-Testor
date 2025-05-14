@@ -11,24 +11,10 @@
             "id": "308230c5e396a840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. System/01.01. Template/Template-Create Note.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Template-Create Note"
+              "title": "New tab"
             }
           }
         ]
@@ -93,22 +79,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "e7b5eedec28fc2fb",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "1d8aaf53ddb5f905",
@@ -139,13 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. System/01.01. Template/Template-Create Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Template-Create Note"
+              "title": "Outline"
             }
           },
           {
@@ -175,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. System/01.01. Template/Template-Create Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template-Create Note"
+              "title": "Backlinks"
             }
           },
           {
@@ -214,7 +188,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. System/01.01. Template/Template-Create Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,14 +215,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Template-Create Note"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,9 +245,20 @@
   },
   "active": "308230c5e396a840",
   "lastOpenFiles": [
-    "language/language.md",
-    "language/a/a.md",
+    "a/a.md",
+    "b/a 1.md",
+    "b/b.md",
+    "b/00. attachments/desktop.ini",
+    "b/00. attachments/Pasted image 20250514113011.png",
+    "b/00. attachments",
+    "a/00. attachments/desktop.ini",
+    "a/00. attachments/Pasted image 20250514113011.png",
+    "a/00. attachments",
+    "b",
+    "a",
     "01. System/01.01. Template/Template-Create Note.md",
+    "language/a/a.md",
+    "language/language.md",
     "language/a",
     "01. System/01.01. Template/Template-Note.md",
     "01. System/Backup/Template-Create Note V2.md",
@@ -284,17 +269,11 @@
     "language/a/desktop.ini",
     "language/null/null.md",
     "language/null",
-    "language/b/desktop.ini",
     "language/.md",
-    "language/a1/desktop.ini",
     "language/a1/a1.md",
-    "language/a1",
     "language/d/d.md",
-    "language/d",
     "language/c/Untitled.md",
-    "language/c/desktop.ini",
     "language/c/c.md",
-    "language/c",
     "language/c/c1/c1.md",
     "language/a/a1/a1.md",
     "language/b/b1/b1.md",
@@ -303,7 +282,6 @@
     "language/a/b/c/c.md",
     "language/c.md",
     "README.md",
-    "01. System/Backup/Template-Create Note V3.md",
     "improvements/b/00. attachments/Pasted image 20250513110414.png",
     "improvements/a/00. attachments/Pasted image 20250513110414.png",
     "20. Area/develop/b/00. attachments/Pasted image 20250512232950.png",
@@ -312,8 +290,6 @@
     "development/A/00. attachments/Pasted image 20250512153438.png",
     "development 1/A/00. attachments/Pasted image 20250512153438.png",
     "20. Area/develop/abc123/abc123abc/00. attachments/Pasted image 20250507215858.png",
-    "20. Area/develop/abc/00. attachments/Pasted image 20250507215858.png",
-    "20. Area/develop/AWS에 서버 구축하기/00. attachments/Untitled.png",
     "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
     "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
     "Untitled.canvas",
