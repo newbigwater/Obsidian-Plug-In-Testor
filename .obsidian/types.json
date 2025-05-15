@@ -27,6 +27,7 @@
     "Categories": "text",
     "Creation date": "datetime",
     "MOC": "multitext",
-    "Outgoinglinks": "multitext"
+    "Outgoinglinks": "multitext",
+    "abc": "multitext"
   }
 }

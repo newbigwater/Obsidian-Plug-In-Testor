@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "language/topic/section/_MOC_.md",
+                "file": "language/A/B/C/B.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,50 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_MOC_"
+              "title": "B"
+            }
+          }
+        ]
+      },
+      {
+        "id": "15261c02dde758a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce919a840b230a6f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "language/A/B/C/B.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of B"
             }
           }
         ]
@@ -43,9 +86,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. System/01.01. Template/03. Create-Note.md",
+                "file": "01. System/01.01. Template/10. Update-Note.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -58,7 +101,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03. Create-Note"
+              "title": "10. Update-Note"
             }
           }
         ]
@@ -159,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. System/01.01. Template/03. Create-Note.md",
+                "file": "language/A/B/C/B.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03. Create-Note"
+              "title": "Outline of B"
             }
           },
           {
@@ -195,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. System/01.01. Template/03. Create-Note.md",
+                "file": "language/A/B/C/B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03. Create-Note"
+              "title": "Backlinks for B"
             }
           },
           {
@@ -234,7 +277,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01. System/01.01. Template/03. Create-Note.md",
+                "file": "language/A/B/C/B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 03. Create-Note"
+              "title": "Graph of B"
             }
           }
         ]
@@ -290,46 +333,46 @@
       "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "4af9ebec6254433a",
+  "active": "06beb8194cc742db",
   "lastOpenFiles": [
-    "language/topic/section/_MOC_.md",
-    "language/topic/section/05. Test.md",
-    "language/topic/section/01. Test.md",
-    "01. System/01.01. Template/12. Update-Note.md",
-    "01. System/01.01. Template/03. Create-Note.md",
-    "language/topic/section/04. Test.md",
-    "language/topic/section/03. Test.md",
-    "01. System/Backup/12. Update-Note 1 1.md",
-    "01. System/Backup/12. Update-Note 1.md",
-    "language/topic/section/02. Test.md",
-    "01. System/01.01. Template/02. Create-Section.md",
-    "language/topic/section/01. Test_tmp.md",
+    "language/A/B/C/C Note.md",
+    "language/A/B/C/_MOC_.md",
+    "language/A/B/C/B.md",
+    "language/A/B/C/00. attachments/desktop.ini",
+    "language/A/B/C/B_tmp.md",
+    "language/A/B/C/00. attachments/Pasted image 20250515164158.png",
+    "language/A/B/C/00. attachments",
+    "language/A/B/_MOC_.md",
+    "language/A/_MOC_.md",
     "language/_MOC_.md",
-    "language/topic/section/null/_MOC_.md",
-    "language/topic/section/null",
-    "language/topic/section/02. test.md",
+    "language/A/B/desktop.ini",
+    "language/A/desktop.ini",
+    "language/A/B/C",
+    "language/A/B",
+    "language/Topic/_MOC_.md",
+    "language/A",
+    "language/Untitled.md",
+    "language/Topic/A/_MOC_.md",
+    "language/Topic/A/B/_MOC_.md",
+    "language/Topic/A/B",
+    "language/Topic/A",
+    "language/Topic",
+    "language/Topic/A/A/_MOC_.md",
+    "language/Topic/Untitled.md",
+    "01. System/01.01. Template/10. Update-Note.md",
+    "01. System/01.01. Template/02. Create-Note.md",
     "01. System/01.01. Template/01. Create-Topic.md",
-    "language/topic/section/Untitled.md",
-    "language/topic/section/test 02.md",
-    "01. System/Backup/Template-Create Note V2.md",
-    "01. System/Backup/Template-Create Note V1.md",
+    "language/Topic/A/B/NOTE.md",
+    "01. System/01.01. Template/AB. Template-Note.md",
+    "01. System/01.01. Template/AA. Template-MOC.md",
+    "language/bottom/_MOC_.md",
+    "language/top/_MOC_.md",
+    "language/bottom/test.md",
+    "language/bottom/test_tmp.md",
+    "language/Note.md",
+    "01. System/Backup/01. Create-Topic.md",
     "language/topic/section/00. attachments/Pasted image 20250515153410.png",
-    "language/topic/section/00. attachments",
-    "language/topic/_MOC_.md",
-    "language/topic/section",
-    "language/topic/Untitled.md",
-    "language/topic/section/test.md",
-    "language/topic/section/test_tmp.md",
-    "01. System/Backup/03. Update-Note v1.md",
-    "language/topic/section/01. Init/_MOC_.md",
-    "language/topic/section/01. Init",
-    "language/topic/section/00. attachments/desktop.ini",
     "language/topic/section/00. attachments/Pasted image 20250515143055.png",
-    "language/topic/desktop.ini",
-    "language/topic",
-    "language/Topic 02/Section 01",
-    "language/Topic 02/desktop.ini",
-    "language/Topic 02",
     "language/energy/2'rd Battery/00. attachments/Pasted image 20250515132114.png",
     "language/topic/a/00. attachments/Pasted image 20250515124057.png",
     "language/internet/01. Test/00. attachments/Pasted image 20250515095725.png",
@@ -337,7 +380,6 @@
     "language/a/00. attachments/Pasted image 20250514163240.png",
     "language/a/00. attachments/Pasted image 20250514150737.png",
     "b/00. attachments/Pasted image 20250514113011.png",
-    "a/00. attachments/Pasted image 20250514113011.png",
     "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
     "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
     "Untitled.canvas",
