@@ -1,9 +1,10 @@
 ---
-Creation date: 2025-05-14 19:46
+Creation date: 2025-05-15 13:44
 tags:
   - moc
   - language
+Backlinks: 
 Outgoinglinks:
-  - "[[language/a/_MOC_|a]]"
+  - "[[language/topic/_MOC_|topic]]"
 ---
 ---
