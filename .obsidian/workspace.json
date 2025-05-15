@@ -4,70 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "c9146742b2843f10",
+        "id": "4eed2f38607b717a",
         "type": "tabs",
         "children": [
           {
-            "id": "06beb8194cc742db",
+            "id": "c4a82f6a15a6e30f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "language/A/B.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "B"
+              "title": "New tab"
             }
           }
         ]
       },
       {
-        "id": "c1ded6c18950ed72",
+        "id": "293442af2dbeb779",
         "type": "tabs",
         "children": [
           {
-            "id": "21c9a2f3c0103df8",
+            "id": "9dcdd0edce22e294",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. System/Backup/11. Update-Note 1.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11. Update-Note 1"
-            }
-          },
-          {
-            "id": "b25b4ac66a83f440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01. System/Backup/10. Update-MOC 1.md",
+                "file": "01. System/01.01. Template/01. Create-Topic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,11 +44,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10. Update-MOC 1"
+              "title": "01. Create-Topic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,52 +278,52 @@
   },
   "active": "75adc1a8590f77c2",
   "lastOpenFiles": [
-    "01. System/Backup/11. Update-Note 1.md",
-    "01. System/Backup/10. Update-MOC 1.md",
     "01. System/01.01. Template/10. Update-MOC.md",
-    "language/A/B.md",
-    "language/A/_MOC_.md",
-    "language/_MOC_.md",
-    "language/A/B_tmp.md",
-    "01. System/01.01. Template/11. Update-Note.md",
-    "language/A/desktop.ini",
-    "language/A/00. attachments/Pasted image 20250515175352.png",
-    "language/A/00. attachments",
-    "language/A",
-    "language/Topic/_MOC_.md",
-    "language/Topic",
-    "language/Untitled.md",
-    "language/A/B/_MOC_.md",
-    "language/A/B/00. attachments/desktop.ini",
-    "language/A/B/TESTE.md",
-    "language/A/B/desktop.ini",
-    "language/A/B/TESTE_tmp.md",
-    "language/A/B/00. attachments/Pasted image 20250515175143.png",
-    "language/A/B/00. attachments",
-    "language/A/B",
-    "language/A/00. attachments/Pasted image 20250515175143.png",
-    "language/A",
-    "language/A/Note.md",
-    "language/A/Note_tmp.md",
     "01. System/01.01. Template/01. Create-Topic.md",
-    "language/A/_MOC__tmp.md",
-    "language/A/_MOC__tmp_tmp.md",
-    "01. System/01.01. Template/AA. Template-MOC.md",
-    "README.md",
+    "language/a/_MOC_.md",
+    "language/a/01. A!A/_MOC_.md",
+    "language/a/00. attachments/desktop.ini",
+    "language/a/test.md",
+    "language/a/test_tmp.md",
+    "language/a/00. attachments/Pasted image 20250515185229.png",
+    "language/a/00. attachments",
+    "language/a/01. A!A/Untitled.md",
+    "language/_MOC_.md",
+    "_MOC_.md",
+    "language/a/01. A!A/desktop.ini",
+    "language/a/01. A!A/Untitled_tmp.md",
+    "language/a/01. A!A/00. attachments/Pasted image 20250515185056.png",
+    "language/a/01. A!A/00. attachments",
+    "language/a/01. A!A",
+    "language/a/Untitled.md",
+    "language/a",
+    "language/Untitled 1.md",
+    "language/Untitled.md",
+    "01. System/01.01. Template/11. Update-Note.md",
     "01. System/01.01. Template/02. Create-Note.md",
-    "01. System/Backup/10. Update-Note 1.md",
-    "language/A/Untitled 1.md",
-    "language/A/Untitled_tmp.md",
-    "language/A/Untitled 1_tmp.md",
-    "language/A/00. attachments/desktop.ini",
+    "language/a/desktop.ini",
+    "01. System/Backup/null/null/null/null/null/desktop.ini",
+    "01. System/Backup/null/null/01. System/desktop.ini",
+    "01. System/Backup/01. System/desktop.ini",
+    "language/A/_MOC_ 1.md",
+    "language/a/_MOC_ 1.md",
+    "01. System/Backup/null/null/null/null/null/null.md",
+    "01. System/Backup/null/null/null/null/null/01. System/Backup/null/null/null/null/null_MOC.md.md",
+    "01. System/Backup/null/null/null/null/01. System/Backup/null/null/null/null_MOC.md.md",
+    "01. System/Backup/null/null/01. System/Backup/null/null/null.md",
+    "01. System/Backup/null/null/01. System/Backup/null/null_MOC.md.md",
+    "01. System/Backup/null/01. System/Backup/null_MOC.md.md",
+    "01. System/Backup/01. System/Backup_MOC.md.md",
+    "01. System/Backup/null/null/null/null/null/null/null.md",
+    "01. System/Backup/null/null/null/null.md",
+    "language/A/00. attachments/Pasted image 20250515175352.png",
+    "language/A/B/00. attachments/Pasted image 20250515175143.png",
+    "language/A/00. attachments/Pasted image 20250515175143.png",
     "language/A/00. attachments/Pasted image 20250515164825.png",
-    "language/A/B/C/B.md",
     "language/A/B/C/00. attachments/Pasted image 20250515164158.png",
     "language/topic/section/00. attachments/Pasted image 20250515153410.png",
     "language/topic/section/00. attachments/Pasted image 20250515143055.png",
     "language/energy/2'rd Battery/00. attachments/Pasted image 20250515132114.png",
-    "language/topic/a/00. attachments/Pasted image 20250515124057.png",
-    "language/internet/01. Test/00. attachments/Pasted image 20250515095725.png",
     "Factory Automation/Battery/Basic/2차전지 배터리 Cell.canvas",
     "Computer Science/Programming/UI/C#/WPF/Prism/Prism Library를 사용하는 개발자를 위한 안내.canvas",
     "Untitled.canvas",

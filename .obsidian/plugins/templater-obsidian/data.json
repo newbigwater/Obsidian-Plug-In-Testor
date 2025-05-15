@@ -26,7 +26,8 @@
   "enabled_templates_hotkeys": [
     "01. System/01.01. Template/01. Create-Topic.md",
     "01. System/01.01. Template/02. Create-Note.md",
-    "01. System/01.01. Template/11. Update-Note.md"
+    "01. System/01.01. Template/11. Update-Note.md",
+    "01. System/01.01. Template/10. Update-MOC.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1

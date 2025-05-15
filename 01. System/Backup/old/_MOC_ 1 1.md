@@ -1,0 +1,53 @@
+---
+type: Note
+creation date: 2025-05-14 18:47
+tags:
+  - 01.System
+  - Backup
+  - old
+backlinks:
+outgoinglinks:
+---
+---
+---
+type: Note
+creation date: 2025-05-14 18:47
+tags:
+  - 01.System
+  - Backup
+  - old
+backlinks:
+outgoinglinks:
+---
+---
+---
+type: MOC
+creation date: 2025-05-14 18:47
+tags:
+  - 01.System
+  - Backup
+  - old
+  - 01.System
+  - Backup
+  - old
+  - 01.System
+  - Backup
+  - old
+backlinks:
+outgoinglinks:
+  - "[[01. System/Backup/old/_MOC_|_MOC_]]"
+  - "[[01. System/Backup/old/02. Create-Section v2|02. Create-Section v2]]"
+---
+---
+---
+type: Note
+creation date: 2025-05-14 18:47
+tags:
+  - 01.System
+  - Backup
+  - old
+backlinks:
+  - "[[01. System/Backup/old/_MOC_.md|old]]"
+outgoinglinks:
+---
+---

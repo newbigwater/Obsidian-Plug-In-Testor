@@ -250,5 +250,13 @@
       ],
       "key": "3"
     }
+  ],
+  "templater-obsidian:01. System/01.01. Template/10. Update-MOC.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
   ]
 }
