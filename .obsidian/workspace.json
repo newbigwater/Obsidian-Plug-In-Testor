@@ -34,49 +34,6 @@
         ]
       },
       {
-        "id": "15261c02dde758a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ce919a840b230a6f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "language/A/B/C/B.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of B"
-            }
-          }
-        ]
-      },
-      {
         "id": "25b97e4360119265",
         "type": "tabs",
         "children": [
@@ -202,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "language/A/B/C/B.md",
+                "file": "01. System/01.01. Template/10. Update-Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of B"
+              "title": "Outline of 10. Update-Note"
             }
           },
           {
@@ -238,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "language/A/B/C/B.md",
+                "file": "01. System/01.01. Template/10. Update-Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B"
+              "title": "Backlinks for 10. Update-Note"
             }
           },
           {
@@ -277,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "language/A/B/C/B.md",
+                "file": "01. System/01.01. Template/10. Update-Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of B"
+              "title": "Graph of 10. Update-Note"
             }
           }
         ]
@@ -333,11 +290,14 @@
       "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "06beb8194cc742db",
+  "active": "4af9ebec6254433a",
   "lastOpenFiles": [
+    "01. System/01.01. Template/02. Create-Note.md",
+    "01. System/01.01. Template/01. Create-Topic.md",
+    "01. System/01.01. Template/10. Update-Note.md",
+    "language/A/B/C/B.md",
     "language/A/B/C/C Note.md",
     "language/A/B/C/_MOC_.md",
-    "language/A/B/C/B.md",
     "language/A/B/C/00. attachments/desktop.ini",
     "language/A/B/C/B_tmp.md",
     "language/A/B/C/00. attachments/Pasted image 20250515164158.png",
@@ -359,9 +319,6 @@
     "language/Topic",
     "language/Topic/A/A/_MOC_.md",
     "language/Topic/Untitled.md",
-    "01. System/01.01. Template/10. Update-Note.md",
-    "01. System/01.01. Template/02. Create-Note.md",
-    "01. System/01.01. Template/01. Create-Topic.md",
     "language/Topic/A/B/NOTE.md",
     "01. System/01.01. Template/AB. Template-Note.md",
     "01. System/01.01. Template/AA. Template-MOC.md",
