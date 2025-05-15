@@ -218,5 +218,37 @@
       "modifiers": [],
       "key": "F11"
     }
+  ],
+  "templater-obsidian:create-01. System/01.01. Template/01. Create-Topic.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "templater-obsidian:create-01. System/01.01. Template/02. Create-Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "templater-obsidian:01. System/01.01. Template/10. Update-Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:01. System/01.01. Template/11. Update-Note.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
   ]
 }

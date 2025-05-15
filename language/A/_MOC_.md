@@ -5,8 +5,8 @@ tags:
   - language
   - A
 backlinks:
-  - "[[language/_MOC_.md|language]]"
+  - "[[language/_MOC_.md|A]]"
 outgoinglinks:
-  - "[[language/A/B/_MOC_|B]]"
+  - "[[language/A/B|B]]"
 ---
 ---
