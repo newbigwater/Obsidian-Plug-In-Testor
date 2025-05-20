@@ -11,25 +11,9 @@
             "id": "c4a82f6a15a6e30f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "293442af2dbeb779",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9dcdd0edce22e294",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "01. System/01.01. Template/01. Create-Topic.md",
+                "file": "language/_MOC_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -44,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01. Create-Topic"
+              "title": "_MOC_"
+            }
+          }
+        ]
+      },
+      {
+        "id": "293442af2dbeb779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dcdd0edce22e294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. System/01.01. Template/11. Update-Note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "11. Update-Note"
             }
           }
         ]
@@ -276,8 +290,12 @@
       "sample-plugin:Sample Plugin": false
     }
   },
-  "active": "75adc1a8590f77c2",
+  "active": "9dcdd0edce22e294",
   "lastOpenFiles": [
+    "language/_MOC_.md",
+    "language/Untitled.md",
+    "_MOC_.md",
+    "01. System/01.01. Template/11. Update-Note.md",
     "01. System/01.01. Template/10. Update-MOC.md",
     "01. System/01.01. Template/01. Create-Topic.md",
     "language/a/_MOC_.md",
@@ -288,8 +306,6 @@
     "language/a/00. attachments/Pasted image 20250515185229.png",
     "language/a/00. attachments",
     "language/a/01. A!A/Untitled.md",
-    "language/_MOC_.md",
-    "_MOC_.md",
     "language/a/01. A!A/desktop.ini",
     "language/a/01. A!A/Untitled_tmp.md",
     "language/a/01. A!A/00. attachments/Pasted image 20250515185056.png",
@@ -298,8 +314,6 @@
     "language/a/Untitled.md",
     "language/a",
     "language/Untitled 1.md",
-    "language/Untitled.md",
-    "01. System/01.01. Template/11. Update-Note.md",
     "01. System/01.01. Template/02. Create-Note.md",
     "language/a/desktop.ini",
     "01. System/Backup/null/null/null/null/null/desktop.ini",
